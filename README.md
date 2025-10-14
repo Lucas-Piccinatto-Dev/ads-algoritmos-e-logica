@@ -25,8 +25,10 @@ O objetivo é documentar de forma organizada todos os exercícios, projetos e co
 
 O conteúdo está organizado em pastas, seguindo a estrutura das aulas e listas de exercícios:
 
-* **/primeiros-exercicios:** O primeiro "Olá mundo1" e testes sobre variáveis e entrada/saída de dados 
+* **/1-introdução-e-variaveis:** O primeiro "Olá mundo1" e testes sobre variáveis e entrada/saída de dados 
       seguindo a estrutura das aulas e lista de exercicios da faculdade.
+* **/2-estruturas-condicionais:** Exercícios para praticar a tomada de decisões no código, utilizando as 
+estruturas Se/Senao (if/else) e Escolha/Caso (switch/case).
 
 
 ---
