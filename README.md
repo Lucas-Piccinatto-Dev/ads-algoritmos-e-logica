@@ -25,7 +25,8 @@ O objetivo é documentar de forma organizada todos os exercícios, projetos e co
 
 O conteúdo está organizado em pastas, seguindo a estrutura das aulas e listas de exercícios:
 
-* **/primeiros-passos:** O primeiro "Olá mundo1" e testes sobre variáveis e entrada/saída de dados.
+* **/primeiros-exercicios:** O primeiro "Olá mundo1" e testes sobre variáveis e entrada/saída de dados 
+      seguindo a estrutura das aulas e lista de exercicios da faculdade.
 
 
 ---
