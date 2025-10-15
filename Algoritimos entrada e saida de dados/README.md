@@ -10,7 +10,7 @@ Este módulo cobre os conceitos fundamentais da programação, servindo como a b
 
 **Demonstração em Ação:**
 
-![Demonstração do exercício de Antecessor e Sucessor](../../demonstracoes/demo-antecessor-sucessor.gif)
+![Demonstração do exercício de Antecessor e Sucessor](../../Demonstracoes/demo-antecessor-sucessor.gif)
 
 ---
 
