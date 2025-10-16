@@ -15,4 +15,4 @@ Este módulo cobre os conceitos fundamentais da programação, servindo como a b
 
 ### Exercício: Calculadora de Salário
 
-**Objetivo:** Desenvolver um algoritmo que calcula a folha de pagamento de um funcionário... *(você pode documentar os outros exercícios aqui também)*.
+**Objetivo:** Desenvolver um algoritmo que calcula a folha de pagamento de um funcionário... 
